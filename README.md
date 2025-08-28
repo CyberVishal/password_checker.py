@@ -1,2 +1,18 @@
-# password_checker.py
-A password_checker.py is a Python script that evaluates the strength of a user-provided password based on a set of predefined rules. Its purpose is to help users create more secure passwords by providing feedback on what is missing or needs improvement. 
+# Password Checker
+
+A simple Python tool to check the strength and security of passwords.  
+This project helps users evaluate whether their passwords are strong, weak, or vulnerable to common attacks.
+
+## Features
+
+- Checks password length and complexity
+- Detects common weak passwords
+- Provides suggestions to improve password strength
+- Works offline (no internet required)
+
+## Installation
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/password_checker.git
+
